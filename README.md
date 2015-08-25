@@ -1,7 +1,3 @@
-# Conquest-HTML-Libraries
+# KendoUI
 
-Switch branches for each library.
-
-Current branches:
-- [x] Inspinia
-- [x] KendoUI
+http://www.telerik.com/kendo-ui

@@ -1,7 +1,3 @@
-# Conquest-HTML-Libraries
+# Inspinia HTML5 Library
 
-Switch branches for each library.
-
-Current branches:
-- [x] Inspinia
-- [x] KendoUI
+http://webapplayers.com/inspinia_admin-v2.0/
